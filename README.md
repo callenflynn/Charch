@@ -7,7 +7,7 @@ auto syncs on startup
 
 ## Waybar
 
-![Waybar](Screenshots/Waybar.png)
+![Waybar](Screenshots/waybar.png)
 
 ## Desktop
 
