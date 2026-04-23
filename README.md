@@ -16,6 +16,11 @@ auto syncs on startup
 
 ![Desktop](Screenshots/Desktop.webp)
 
+## FastFetch
+
+![FastFetch](Screenshots/1776910968794117631.png)
+
 ## More Screenshots
 
 ![1](Screenshots/image.png)
+
