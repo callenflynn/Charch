@@ -14,4 +14,8 @@ auto syncs on startup
 
 ## Desktop
 
-![Desktop](Screenshots/image.png)
+![Desktop](Screenshots/Desktop.webp)
+
+## More Screenshots
+
+![1](Screenshots/image.png)
