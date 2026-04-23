@@ -1,12 +1,1 @@
-{
-  "dankKDEConnect": {
-    "enabled": true,
-    "selectedDeviceId": "fa9405d3_3a04_4947_bf48_db33b55d39bc"
-  },
-  "githubNotifier": {
-    "enabled": true
-  },
-  "formatColorPicker": {
-    "enabled": true
-  }
-}
+/home/cal/dotfiles/dank-shell/plugin_settings.json

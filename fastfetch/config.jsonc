@@ -1,0 +1,136 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/logo.txt",
+    "padding": {
+      "top": 1,
+      "left": 2
+    }
+  },
+  "display": {
+    "separator": "  "
+  },
+  "modules": [
+    "break",
+    {
+      "type": "os",
+      "key": " DISTRO",
+      "keyColor": "#9b483a"
+    },
+    {
+      "type": "kernel",
+      "key": "│ ├",
+      "keyColor": "#9b483a"
+    },
+    {
+      "type": "command",
+      "key": "│ ├",
+      "text": "CArch Version: ${DOTS_VERSION}",
+      "keyColor": "#9b483a"
+    },
+    {
+      "type": "packages",
+      "key": "│ ├󰏖",
+      "keyColor": "#9b483a"
+    },
+    {
+      "type": "shell",
+      "key": "│ └",
+      "keyColor": "#9b483a"
+    },
+
+    {
+      "type": "wm",
+      "key": " DE/WM",
+      "keyColor": "#7a3a30"
+    },
+    {
+      "type": "wmtheme",
+      "key": "│ ├󰉼",
+      "keyColor": "#7a3a30"
+    },
+    {
+      "type": "icons",
+      "key": "│ ├󰀻",
+      "keyColor": "#7a3a30"
+    },
+    {
+      "type": "cursor",
+      "key": "│ ├",
+      "keyColor": "#7a3a30"
+    },
+    {
+      "type": "terminalfont",
+      "key": "│ ├",
+      "keyColor": "#7a3a30"
+    },
+    {
+      "type": "terminal",
+      "key": "│ └",
+      "keyColor": "#7a3a30"
+    },
+
+    {
+      "type": "host",
+      "key": "󰌢 SYSTEM",
+      "keyColor": "#474550"
+    },
+    {
+      "type": "cpu",
+      "key": "│ ├󰻠",
+      "keyColor": "#474550"
+    },
+    {
+      "type": "gpu",
+      "key": "│ ├󰻑",
+      "format": "{2}",
+      "keyColor": "#474550"
+    },
+    {
+      "type": "display",
+      "key": "│ ├󰍹",
+      "keyColor": "#474550",
+      "compactType": "original-with-refresh-rate"
+    },
+    {
+      "type": "memory",
+      "key": "│ ├󰾆",
+      "keyColor": "#474550"
+    },
+    {
+      "type": "swap",
+      "key": "│ ├󰓡",
+      "keyColor": "#474550"
+    },
+    {
+      "type": "uptime",
+      "key": "│ ├󰅐",
+      "keyColor": "#474550"
+    },
+    {
+      "type": "disk",
+      "key": "│ └󰋊",
+      "keyColor": "#474550"
+    },
+
+    {
+      "type": "sound",
+      "key": " AUDIO",
+      "format": "{2}",
+      "keyColor": "#b05a4a"
+    },
+    {
+      "type": "player",
+      "key": "│ ├󰥠",
+      "keyColor": "#b05a4a"
+    },
+    {
+      "type": "media",
+      "key": "│ └󰝚",
+      "keyColor": "#b05a4a"
+    },
+
+    "break"
+  ]
+}
