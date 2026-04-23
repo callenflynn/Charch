@@ -18,7 +18,7 @@ auto syncs on startup
 
 ## FastFetch
 
-![FastFetch](Screenshots/1776910968794117631.png)
+![FastFetch](Screenshots/1776985326669313834.png)
 
 ## More Screenshots
 
