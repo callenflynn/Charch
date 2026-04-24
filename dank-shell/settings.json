@@ -178,8 +178,8 @@
   "browserPickerViewMode": "grid",
   "browserUsageHistory": {
     "brave-browser": {
-      "count": 1,
-      "lastUsed": 1776787102136,
+      "count": 2,
+      "lastUsed": 1776994397232,
       "name": "Brave"
     }
   },
@@ -276,7 +276,7 @@
   "matugenTemplateFirefox": true,
   "matugenTemplatePywalfox": true,
   "matugenTemplateZenBrowser": true,
-  "matugenTemplateVesktop": true,
+  "matugenTemplateVesktop": false,
   "matugenTemplateEquibop": true,
   "matugenTemplateGhostty": true,
   "matugenTemplateKitty": true,
