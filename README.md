@@ -1,5 +1,5 @@
 dotfiles for my arch linux laptop, CArch
-
+yes, I am aware the repo is called Charch and not CArch
 
 Dank Linux https://danklinux.com/
 
