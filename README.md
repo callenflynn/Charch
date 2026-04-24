@@ -1,4 +1,4 @@
-dotfiles for my arch linux laptop, CHarch
+dotfiles for my arch linux laptop, CArch
 
 
 Dank Linux https://danklinux.com/
