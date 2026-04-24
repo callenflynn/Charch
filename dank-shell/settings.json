@@ -423,10 +423,6 @@
           "enabled": true
         },
         {
-          "id": "githubNotifier",
-          "enabled": true
-        },
-        {
           "id": "colorPicker",
           "enabled": true
         },
@@ -436,7 +432,8 @@
         },
         {
           "id": "memUsage",
-          "enabled": true
+          "enabled": true,
+          "minimumWidth": false
         },
         {
           "id": "notificationButton",

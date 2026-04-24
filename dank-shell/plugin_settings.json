@@ -8,5 +8,11 @@
   },
   "formatColorPicker": {
     "enabled": true
+  },
+  "tailscale": {
+    "enabled": true
+  },
+  "dankCleaner": {
+    "enabled": true
   }
 }
