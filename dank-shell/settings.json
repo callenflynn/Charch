@@ -2,7 +2,14 @@
   "currentThemeName": "dynamic",
   "currentThemeCategory": "dynamic",
   "customThemeFile": "/home/cal/.config/DankMaterialShell/themes/catppuccin/theme.json",
-  "registryThemeVariants": {},
+  "registryThemeVariants": {
+    "catppuccin": {
+      "dark": {
+        "flavor": "mocha",
+        "accent": "mauve"
+      }
+    }
+  },
   "matugenScheme": "scheme-tonal-spot",
   "runUserMatugenTemplates": true,
   "matugenTargetMonitor": "",
