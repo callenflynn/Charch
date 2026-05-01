@@ -207,7 +207,9 @@
   "spotlightSectionViewModes": {
     "apps": "list"
   },
-  "appDrawerSectionViewModes": {},
+  "appDrawerSectionViewModes": {
+    "apps": "list"
+  },
   "niriOverviewOverlayEnabled": true,
   "dankLauncherV2Size": "compact",
   "dankLauncherV2BorderEnabled": false,
@@ -600,7 +602,14 @@
         ],
         "showDigitalSeconds": false
       },
-      "positions": {}
+      "positions": {
+        "eDP-1": {
+          "width": 200,
+          "height": 200,
+          "x": 620,
+          "y": 350
+        }
+      }
     },
     {
       "id": "dw_1777609006673_lx223qidt",
