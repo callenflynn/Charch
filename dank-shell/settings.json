@@ -581,7 +581,52 @@
   "systemMonitorVariants": [],
   "desktopWidgetPositions": {},
   "desktopWidgetGridSettings": {},
-  "desktopWidgetInstances": [],
+  "desktopWidgetInstances": [
+    {
+      "id": "dw_1777600534526_73vh6caqw",
+      "widgetType": "desktopClock",
+      "name": "Desktop Clock",
+      "enabled": true,
+      "config": {
+        "style": "analog",
+        "transparency": 0,
+        "colorMode": "primary",
+        "customColor": "#ffffff",
+        "showDate": true,
+        "showAnalogNumbers": false,
+        "showAnalogSeconds": true,
+        "displayPreferences": [
+          "all"
+        ],
+        "showDigitalSeconds": false
+      },
+      "positions": {}
+    },
+    {
+      "id": "dw_1777609006673_lx223qidt",
+      "widgetType": "cavaVisualizer",
+      "name": "Cava Visualizer",
+      "enabled": false,
+      "config": {
+        "displayPreferences": [
+          "all"
+        ],
+        "opacity": 60,
+        "vizMode": "curve-outline",
+        "curveLineWidth": 2,
+        "curvePoints": 24,
+        "channels": "stereo"
+      },
+      "positions": {
+        "eDP-1": {
+          "width": 1440,
+          "height": 100,
+          "x": 0,
+          "y": 800
+        }
+      }
+    }
+  ],
   "desktopWidgetGroups": [],
   "builtInPluginSettings": {
     "dms_settings_search": {
