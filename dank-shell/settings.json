@@ -219,7 +219,7 @@
   "dankLauncherV2UnloadOnClose": false,
   "useAutoLocation": true,
   "weatherEnabled": true,
-  "networkPreference": "wifi",
+  "networkPreference": "ethernet",
   "iconTheme": "System Default",
   "cursorSettings": {
     "theme": "System Default",
@@ -608,6 +608,12 @@
           "height": 200,
           "x": 620,
           "y": 350
+        },
+        "DP-2": {
+          "width": 200,
+          "height": 200,
+          "x": 860,
+          "y": 440
         }
       }
     },
@@ -632,6 +638,12 @@
           "height": 100,
           "x": 0,
           "y": 800
+        },
+        "DP-2": {
+          "width": 200,
+          "height": 200,
+          "x": 860,
+          "y": 440
         }
       }
     }
