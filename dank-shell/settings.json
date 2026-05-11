@@ -173,7 +173,33 @@
   "runningAppsCurrentWorkspace": true,
   "runningAppsGroupByApp": false,
   "runningAppsCurrentMonitor": false,
-  "appIdSubstitutions": [],
+  "appIdSubstitutions": [
+    {
+      "pattern": "Spotify",
+      "replacement": "spotify",
+      "type": "exact"
+    },
+    {
+      "pattern": "beepertexts",
+      "replacement": "beeper",
+      "type": "exact"
+    },
+    {
+      "pattern": "home assistant desktop",
+      "replacement": "homeassistant-desktop",
+      "type": "exact"
+    },
+    {
+      "pattern": "com.transmissionbt.transmission",
+      "replacement": "transmission-gtk",
+      "type": "contains"
+    },
+    {
+      "pattern": "^steam_app_(\\d+)$",
+      "replacement": "steam_icon_$1",
+      "type": "regex"
+    }
+  ],
   "centeringMode": "index",
   "clockDateFormat": "",
   "lockDateFormat": "",
@@ -580,7 +606,11 @@
   ],
   "systemMonitorVariants": [],
   "desktopWidgetPositions": {},
-  "desktopWidgetGridSettings": {},
+  "desktopWidgetGridSettings": {
+    "eDP-1": {
+      "size": 40
+    }
+  },
   "desktopWidgetInstances": [
     {
       "id": "dw_1777600534526_73vh6caqw",
@@ -592,7 +622,7 @@
         "transparency": 0,
         "colorMode": "primary",
         "customColor": "#ffffff",
-        "showDate": true,
+        "showDate": false,
         "showAnalogNumbers": false,
         "showAnalogSeconds": true,
         "displayPreferences": [
@@ -600,20 +630,7 @@
         ],
         "showDigitalSeconds": false
       },
-      "positions": {
-        "eDP-1": {
-          "width": 200,
-          "height": 200,
-          "x": 620,
-          "y": 350
-        },
-        "DP-2": {
-          "width": 200,
-          "height": 200,
-          "x": 860,
-          "y": 440
-        }
-      }
+      "positions": {}
     },
     {
       "id": "dw_1777609006673_lx223qidt",
