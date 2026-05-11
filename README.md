@@ -24,3 +24,4 @@ auto syncs on startup
 
 ![1](Screenshots/image.png)
 
+![2](Screenshots/desktop2.png)
